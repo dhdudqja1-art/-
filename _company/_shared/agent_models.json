@@ -1,11 +1,11 @@
 {
-  "ceo": "gemma-4-e4b-it",
-  "youtube": "gemma-4-e4b-it",
-  "instagram": "gemma-4-e4b-it",
-  "designer": "gemma-4-e4b-it",
-  "business": "gemma-4-e4b-it",
-  "secretary": "gemma-4-e4b-it",
-  "editor": "gemma-4-e4b-it",
-  "writer": "gemma-4-e4b-it",
-  "researcher": "gemma-4-e4b-it"
+  "ceo": "google/gemma-4-e2b",
+  "youtube": "connectai-main",
+  "instagram": "connectai-main",
+  "designer": "google/gemma-4-e2b",
+  "business": "connectai-main",
+  "secretary": "connectai-main",
+  "editor": "connectai-main",
+  "writer": "connectai-main",
+  "researcher": "connectai-main"
 }
