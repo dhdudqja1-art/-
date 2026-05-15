@@ -1,1 +1,11 @@
-﻿{}
+{
+  "ceo": "google/gemma-4-e2b",
+  "secretary": "qwen/qwen3-vl-4b",
+  "youtube": "qwen/qwen3-vl-4b",
+  "researcher": "qwen/qwen3-vl-4b",
+  "business": "qwen/qwen3-vl-4b",
+  "writer": "qwen/qwen3-vl-4b",
+  "editor": "qwen/qwen3-vl-4b",
+  "designer": "google/gemma-4-e2b",
+  "instagram": "qwen/qwen3-vl-4b"
+}
